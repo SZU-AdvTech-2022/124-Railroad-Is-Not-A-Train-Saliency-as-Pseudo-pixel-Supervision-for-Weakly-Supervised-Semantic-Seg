@@ -1,0 +1,7 @@
+@inproceedings{lee2021railroad,
+  title={Railroad Is Not A Train: Saliency as Pseudo-pixel Supervision for Weakly Supervised Semantic Segmentation},
+  author={Lee, Seungho and Lee, Minhyun and Lee, Jongwuk and Shim, Hyunjung},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={5495--5505},
+  year={2021}
+}
